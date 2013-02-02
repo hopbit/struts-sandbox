@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
-	<artifactId>strutsTest</artifactId>
+	<artifactId>hello-struts</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>strutsTest Maven Webapp</name>
+	<name>hello-struts Test Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -37,7 +37,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>strutsTest</finalName>
+		<finalName>hello-struts</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
